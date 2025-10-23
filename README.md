@@ -5,9 +5,9 @@
    </b>
 </h3>
 
-<div style="text-align: right; margin: 10px;">
+<div align="right">
   <a href="https://komarev.com/ghpvc/?username=RajputRizwan">
-    <img align="right" src="https://visitcount.itsvg.in/api?id=RajputRizwan&label=Profile%20Views&icon=2&color=0078D7&pretty=true" />
+    <img src="https://komarev.com/ghpvc/?username=RajputRizwan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   </a>
 </div>
 
